@@ -76,10 +76,10 @@
                            <meterSig xml:id="msig-0000001972531295" count="4" sym="common" unit="4" />
                         </staffDef>
                         <grpSym xml:id="grpsym-0000000108267441" symbol="brace" />
+                       <label xml:id="label-0000000212334018"><rend xml:id="rend-0000000212334018" halign="center"  fontweight="bold"  fontsize="120.00%"  >Tema.</rend></label>
                      </staffGrp>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="section-0000001388958746">
                   <section xml:id="Tema">
                      <measure xml:id="measure-0000001315065384" metcon="false" n="0">
                         <staff xml:id="staff-0000000248052832" n="1">
@@ -95,9 +95,6 @@
                            </layer>
                         </staff>
                         <tempo xml:id="tempo-0000000027645357" place="above" staff="1" tstamp="1.000000" midi.bpm="108">Andante con moto.</tempo>
-                        <tempo xml:id="tempo-0000001949660790" place="above" staff="1" tstamp="1.000000">
-                           <rend xml:id="rend-0000000842761537" halign="center" fontsize="120.00%">Tema.</rend>
-                        </tempo>
                         <slur xml:id="slur-0000000648241369" startid="#note-0000002036699592" endid="#note-0000000524856621" curvedir="below" />
                      </measure>
                      <measure xml:id="measure-0000000596760068" n="1">
@@ -1211,10 +1208,16 @@
                         </staff>
                      </measure>
                   </section>
-                  <section xml:id="Var-III">
+                  <section xml:id="Var-III" restart="true" label="Var III">
                      <scoreDef xml:id="scoredef-0000000896344190">
                         <keySig xml:id="keysig-0000000248707142" sig="4f" />
                         <meterSig xml:id="msig-0000001013696445" count="4" sym="common" unit="4" />
+                        <staffGrp>
+                       <label xml:id="label-0000000212334019"><rend xml:id="rend-0000000212334019" halign="center"  fontweight="bold"    >VAR. III</rend></label>
+                              <staffDef n="1" lines="5" />
+                              <staffDef n="2" lines="5" />
+                              <grpSym symbol="brace" />
+                        </staffGrp>
                      </scoreDef>
                      <measure xml:id="measure-0000000131537645" metcon="false" n="33">
                         <staff xml:id="staff-0000000706111656" n="1">
@@ -1228,9 +1231,6 @@
                            </layer>
                         </staff>
                         <tempo xml:id="tempo-0000000276815608" place="above" startid="#note-0000001867468534">Minore.</tempo>
-                        <tempo xml:id="tempo-0000002111987245" place="above" staff="1" tstamp="1.000000">
-                           <rend xml:id="rend-0000000212334019" halign="center">VAR. III</rend>
-                        </tempo>
                         <dynam xml:id="dynam-0000001713067360" place="between" staff="1 2" tstamp="1.000000" vgrp="61">sempre p e ligato</dynam>
                         <slur xml:id="slur-0000001709029164" startid="#note-0000001867468534" endid="#note-0000002044042180" curvedir="above" />
                      </measure>
@@ -3198,7 +3198,6 @@
                         <fermata xml:id="fermata-0000001801328893" staff="2" startid="#rest-0000001078843743" form="norm" place="above" />
                      </measure>
                   </section>
-               </section>
             </score>
          </mdiv>
       </body>
