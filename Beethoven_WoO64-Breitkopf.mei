@@ -1224,7 +1224,7 @@
                      <meterSig xml:id="msig-0000001013696445" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="s1tervh">
                         <label xml:id="label-0000000212334019">
-                           <rend xml:id="rend-0000000212334019" halign="center" fontweight="bold">VAR. III</rend>
+                           <rend xml:id="rend-0000000212334019" halign="center" fontweight="bold" fontsize="120%">VAR. III</rend>
                         </label>
                         <staffDef xml:id="s5vpy6r" n="1" lines="5" />
                         <staffDef xml:id="su71496" n="2" lines="5" />
