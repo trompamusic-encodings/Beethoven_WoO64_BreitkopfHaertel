@@ -389,7 +389,6 @@
                </section>
                <section xml:id="Var-I" restart="true" label="Var-I">
                   <scoreDef xml:id="scoredef-0000000712379120">
-                     <meterSig xml:id="msig-0000000768981662" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="s6vuwjt">
                         <label xml:id="label-0000000212756012">
                            <rend xml:id="rend-0000000212434132" fontsize="120.00%" fontweight="bold">VAR. I</rend>
@@ -903,7 +902,6 @@
                </section>
                <section xml:id="Var-II" restart="true">
                   <scoreDef xml:id="scoredef-0000001332548833">
-                     <meterSig xml:id="msig-0000001547025392" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="s8uau71">
                         <label xml:id="label-0000000212334645">
                            <rend xml:id="rend-0000000212352019" halign="center" fontsize="120.00%" fontweight="bold">VAR. II.</rend>
@@ -1221,7 +1219,6 @@
                <section xml:id="Var-III" restart="true" label="Var III">
                   <scoreDef xml:id="scoredef-0000000896344190">
                      <keySig xml:id="keysig-0000000248707142" sig="4f" sig.showchange="false" />
-                     <meterSig xml:id="msig-0000001013696445" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="s1tervh">
                         <label xml:id="label-0000000212334019">
                            <rend xml:id="rend-0000000212334019" halign="center" fontweight="bold" fontsize="120%">VAR. III</rend>
@@ -1626,7 +1623,6 @@
                <section xml:id="Var-IV" restart="true">
                   <scoreDef xml:id="scoredef-0000000784815055">
                      <keySig xml:id="keysig-0000000932447693" sig="1f" />
-                     <meterSig xml:id="msig-0000000922952003" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="sylz6kr">
                         <label xml:id="lsvry17">
                            <rend xml:id="rif796t" halign="center" fontsize="120.00%" fontweight="bold">VAR. IV.</rend>
@@ -2209,7 +2205,6 @@
                </section>
                <section xml:id="Var-V" restart="true">
                   <scoreDef xml:id="scoredef-0000002082411936">
-                     <meterSig xml:id="msig-0000000823875129" count="4" sym="common" unit="4" />
                      <staffGrp xml:id="swnogjw">
                         <label xml:id="le2h479">
                            <rend xml:id="rpnz24e" halign="center" fontsize="120.00%" fontweight="bold">VAR. V.</rend>
