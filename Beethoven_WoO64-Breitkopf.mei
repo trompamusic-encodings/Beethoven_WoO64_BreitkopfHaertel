@@ -1622,7 +1622,7 @@
                </section>
                <section xml:id="Var-IV" restart="true">
                   <scoreDef xml:id="scoredef-0000000784815055">
-                     <keySig xml:id="keysig-0000000932447693" sig="1f" />
+                     <keySig xml:id="keysig-0000000932447693" sig="1f" sig.showchange="true"/>
                      <staffGrp xml:id="sylz6kr">
                         <label xml:id="lsvry17">
                            <rend xml:id="rif796t" halign="center" fontsize="120.00%" fontweight="bold">VAR. IV.</rend>
