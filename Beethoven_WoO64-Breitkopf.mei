@@ -32,21 +32,19 @@
             <score xml:id="score-0000000832429671">
                <scoreDef xml:id="scoredef-0000000917134699">
                   <pgHead xml:id="pghead-0000002045266725">
-                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
-                     </rend>
-                     <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000379336902" type="superscription">No.</abbr> 177.<lb xml:id="lb-0000000931946807" />
-                     </rend>
+                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.</rend>
+                     <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000379336902" type="superscription">No.</abbr> 177.</rend>
                      <rend xml:id="rend-0000000027109546" halign="center" valign="middle" fontweight="bold">
                         <rend xml:id="rend-0000002081006402" fontsize="200.00%">SECHS LEICHTE VARIATIONEN</rend>
-                        <rend xml:id="rend-0000001631646837" halign="center" valign="middle" fontsize="150.00%">
-                           <lb xml:id="lb-0000000668681548" />über ein Schweizerlied</rend>
-                        <rend xml:id="rend-0000001091189961" halign="center" valign="middle" fontsize="125.00%">
-                           <lb xml:id="lb-0000000350481013" />für das Pianoforte</rend>
-                        <rend xml:id="rend-0000001631646838" halign="center" valign="middle" fontsize="110.00%">
-                           <lb xml:id="lb-0000000495749949" />von</rend>
+                        <rend xml:id="rend-0000002081006989" fontsize="20.00%"><lb /></rend>
+                        <rend xml:id="rend-0000001631646837" halign="center" valign="middle" fontsize="150.00%"><lb />über ein Schweizerlied</rend>
+                        <rend xml:id="rend-0000002081006433" fontsize="20.00%"><lb /></rend>
+                        <rend xml:id="rend-0000001091189961" halign="center" valign="middle" fontsize="125.00%"><lb />für das Pianoforte</rend>
+                        <rend xml:id="rend-0000002081006442" fontsize="20.00%"><lb /></rend>
+                        <rend xml:id="rend-0000001631646838" halign="center" valign="middle" fontsize="110.00%"><lb />von</rend>
+                        <rend xml:id="rend-0000002081006449" fontsize="20.00%"><lb /></rend>
                         <rend xml:id="rend-0000001223265771" halign="center" valign="middle" fontsize="200.00%">
-                           <lb xml:id="lb-0000000931946442" />L. <rend xml:id="rend-0000000703194806" fontsize="125.00%">VAN</rend> BEETHOVEN.
-                           <lb xml:id="lb-0000000495749485" />
+                           <lb xml:id="lb-0000000931946442" />L. <rend xml:id="rend-0000000703194806" fontsize="75.00%">VAN</rend> BEETHOVEN.
                         </rend>
                      </rend>
                   </pgHead>
